@@ -258,9 +258,8 @@ function App() {
       onClick: () => openWindow('contact', 'Contact Information', (
         <div className="window-content">
           <h2>📧 Get In Touch</h2>
-          <p><strong>Website:</strong> example-family.com</p>
-          <p><strong>Email:</strong> hello@example-family.com</p>
-          <p><strong>Social:</strong> @examplefamily</p>
+          <p><strong>Website:</strong> https://www.laclair.me/</p>
+          <p><strong>Email:</strong> info@laclair.me</p>
           <br/>
           <h3>About This Site</h3>
           <p>A retro-styled family website showcasing the possibilities of nostalgic web design</p>
