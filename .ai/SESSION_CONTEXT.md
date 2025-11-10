@@ -1,105 +1,84 @@
-# laclair-family-us - Session Context
+# laclair-family-os - Session Context
 
-**Last Updated**: 2025-11-09 17:35
-**Status**: Development
+**Last Updated**: 2025-11-10
+**Status**: [Development | Staging | Production | Maintenance]
 **Version**: v0.1.0
-**Brand**: LaClair Technologies
 
 ## Quick Status
 
-- **Current Phase**: Initial development
-- **Active Work**: Building family portal/operating system
+- **Current Phase**: Initial setup
+- **Active Work**: Documentation standardization
 - **Blockers**: None
-- **Next Steps**: Implement family features and content
+- **Next Steps**: Complete initial implementation
 
 ## Project Overview
 
 ### Purpose
-
-LaClair Family operating system/portal - a web-based hub for family organization, communication, and shared resources.
+[1-2 sentence description of what this project does]
 
 ### Technology Stack
-
-- **Language**: TypeScript
-- **Framework**: React 19
-- **Build Tool**: Vite 7
-- **Package Name**: laclair-family-os
-- **Styling**: CSS3
-- **Linting**: ESLint
+- **Language**: [Primary language]
+- **Framework**: [Framework if applicable]
+- **Database**: [Database if applicable]
+- **Infrastructure**: [Deployment platform]
 
 ### Repository Info
-
-- **GitHub**: https://github.com/plac9/laclair-family-us
-- **Brand**: LaClair Technologies
-- **Type**: Family portal application
+- **GitHub**: https://github.com/plac9/laclair-family-os
+- **Brand**: [LaClair Tech | Real Time]
 
 ## Current State
 
 ### What's Working
-
-✅ React 19 + TypeScript + Vite template initialized
-✅ ESLint configured
-✅ Development server functional
-✅ Hot module replacement (HMR)
+- Repository structure standardized
+- Documentation framework in place
 
 ### Known Issues
-
-- Family features need implementation
-- Content and design need development
-- User authentication may be needed
+- [ ] Initial templates need customization
+- [ ] Project-specific documentation needed
 
 ### Recent Changes
+- **2025-11-10**: Implemented standard documentation structure
 
-- **2025-11-09**: Documentation standardization applied
-- Project initialized as laclair-family-os
+## Key Files & Locations
+
+### Documentation
+- **Session Context**: `.ai/SESSION_CONTEXT.md` (this file)
+- **Architecture**: `.ai/ARCHITECTURE.md`
+- **Troubleshooting**: `docs/TROUBLESHOOTING.md`
+- **Deployment**: `docs/DEPLOYMENT.md`
+
+### Scripts
+- **Development**: `scripts/dev/`
+- **Deployment**: `scripts/deploy/`
+- **Troubleshooting**: `scripts/troubleshoot/`
 
 ## Development Workflow
 
 ### Setup (First Time)
-
 ```bash
-# Clone repository
-git clone https://github.com/plac9/laclair-family-us.git
-cd laclair-family-us
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
+# Setup commands to be added
 ```
 
 ### Common Tasks
-
 ```bash
-# Development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Preview production build
-npm run preview
-
-# Lint code
-npm run lint
+# Common development tasks to be added
 ```
 
-## Potential Features
+## Deployment
 
-- Family calendar
-- Shared photo albums
-- Document storage
-- Todo lists
-- Family announcements
-- Recipe collection
+### Environments
+- **Development**: Local development
+- **Staging**: [To be configured]
+- **Production**: [To be configured]
 
 ## Resources
 
-- Part of LaClair Technologies portfolio
-- React 19 documentation
-- Vite documentation
+### Documentation
+- See `docs/README.md` for complete documentation index
+
+### Related Projects
+- Part of [LaClair Tech | Real Time] project portfolio
 
 ---
 
-**Note**: Implement family-specific features as requirements are defined.
+**Note**: This file provides AI session context. Update regularly to keep agents informed.

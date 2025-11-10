@@ -1,4 +1,4 @@
-# laclair-family-us - Utility Scripts
+# laclair-family-os - Utility Scripts
 
 This directory contains utility scripts organized by purpose.
 

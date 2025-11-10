@@ -1,6 +1,6 @@
-# laclair-family-us - Troubleshooting Guide
+# laclair-family-os - Troubleshooting Guide
 
-**Last Updated**: 2025-11-09
+**Last Updated**: 2025-11-10
 
 ## Quick Diagnostic Commands
 
@@ -34,7 +34,7 @@
 ### Before Asking for Help
 
 1. Check this troubleshooting guide
-2. Search issues in GitHub: https://github.com/plac9/laclair-family-us/issues
+2. Search issues in GitHub: https://github.com/plac9/laclair-family-os/issues
 3. Check logs and error messages
 4. Review recent changes in `.ai/CHANGELOG.md`
 
@@ -48,7 +48,7 @@ When reporting issues, include:
 
 ### Support Channels
 
-- **Issues**: https://github.com/plac9/laclair-family-us/issues
+- **Issues**: https://github.com/plac9/laclair-family-os/issues
 - **Contact**: patrick@laclair.me
 
 ---

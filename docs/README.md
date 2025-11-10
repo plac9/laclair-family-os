@@ -1,4 +1,4 @@
-# laclair-family-us - Documentation Index
+# laclair-family-os - Documentation Index
 
 ## Getting Started
 - **[Getting Started](GETTING_STARTED.md)** - Setup and first steps
